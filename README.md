@@ -37,6 +37,12 @@ WALLET_ID=your_wallet_id_here
 
 ## Usage
 
+Open a screen:
+
+```bash
+screen -S meganet
+```
+
 Start the bot with:
 
 ```bash
@@ -47,6 +53,14 @@ Or directly with Node.js:
 
 ```bash
 node index.js
+```
+
+Leave the screen CTRL+A+D
+
+If you want to enter the screen again
+
+```bash
+screen -r meganet
 ```
 
 The bot will automatically:
