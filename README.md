@@ -57,7 +57,7 @@ The bot will automatically:
 
 ## How to Get Your Wallet Information
 
-1. Log in to your Meganet account at [https://meganet.app](https://meganet.app)
+1. Register [here](https://meganet.app/login?refcode=6EI57Z)
 2. Navigate to your profile or wallet section
 3. Your wallet address will be displayed on the page
 4. The wallet ID can be found in the URL when viewing your wallet details or in network requests
